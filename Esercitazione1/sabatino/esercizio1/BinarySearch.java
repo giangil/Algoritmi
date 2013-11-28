@@ -9,6 +9,7 @@ public class BinarySearch {
 	 * @param a array di interi, ordinato, in cui eseguire la ricerca
 	 * @param inf limite inferiore della porzione di array in cui eseguire la ricerca
 	 * @param sup limite superiore della porzione di array in cui eseguire la ricerca
+	 * //ciao! inf e sup non sono parametri del metodo find! (volevo fare una prova)
 	 * @return posizione dell'elemento cercato, se non presente viene restituito l'inverso della posizione in cui potrebbe essere inserito
 	 * */
 	public static int find(int x,int[]a){
